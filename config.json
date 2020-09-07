@@ -1,7 +1,7 @@
 {
     "char_conv":{
-        "X":":bleu:",
-        "O":":rouge:"
+        "X":"😀",
+        "O":"😈"
     },
     "spec":{
         "width":7,
