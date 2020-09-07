@@ -1,5 +1,5 @@
 [package]
-name = "text-to-bleu-rouge"
+name = "xoxo"
 version = "0.1.0"
 authors = ["Gabin Lefranc <gabin.lefranc@gmail.com>"]
 edition = "2018"
